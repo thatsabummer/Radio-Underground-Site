@@ -1,0 +1,43 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Courier New", monospace;
+}
+
+div {
+    line-height: 30px;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: "Courier New", monospace;
+    
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-family: "Courier New", monospace;
+}
+h4 {
+    text-align: center;
+    color: white;
+    font-family: "Courier New", monospace;
+}
+
+h5 {
+    text-align: center;
+    color: white;
+    font-family: "Courier New", monospace;
+}
+
+img {
+
+    Padding: 50px;
+}
+
+body{
+    background-color: #000000 !important;
+}
+
